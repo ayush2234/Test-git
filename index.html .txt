@@ -1,2 +1,2 @@
 My git pratical
-
+Please create index.html file and add h1 tag with “My git pratical
